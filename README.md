@@ -1,7 +1,7 @@
 PDF Editor - Frontend
 A React-based PDF editor that allows users to upload PDF files, add text overlays, edit metadata, and export to various formats.
 
-------Project Structure-----------------------------------------------
+------Project Structure-----------------------------------------------------------
 
 PDF-EDITOR-FRONTEND/
 ├── src/
